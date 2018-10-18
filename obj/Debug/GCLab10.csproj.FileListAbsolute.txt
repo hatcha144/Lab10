@@ -1,0 +1,7 @@
+C:\Users\mfilice\source\repos\GCLab10\GCLab10\bin\Debug\GCLab10.exe.config
+C:\Users\mfilice\source\repos\GCLab10\GCLab10\bin\Debug\GCLab10.exe
+C:\Users\mfilice\source\repos\GCLab10\GCLab10\bin\Debug\GCLab10.pdb
+C:\Users\mfilice\source\repos\GCLab10\GCLab10\obj\Debug\GCLab10.csprojAssemblyReference.cache
+C:\Users\mfilice\source\repos\GCLab10\GCLab10\obj\Debug\GCLab10.csproj.CoreCompileInputs.cache
+C:\Users\mfilice\source\repos\GCLab10\GCLab10\obj\Debug\GCLab10.exe
+C:\Users\mfilice\source\repos\GCLab10\GCLab10\obj\Debug\GCLab10.pdb
